@@ -1,9 +1,10 @@
 # 💵 Remote Dollar Freelancer & Foreign Client Playbook (2026 Edition)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Upwork Rate](https://img.shields.io/badge/Upwork_Verified_Rate-$65.00/hr-00C853?style=for-the-badge)](https://www.upwork.com)
+[![Upwork Profile](https://img.shields.io/badge/Upwork-Top_Rated_($65/hr)-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017c67768fc98616c6)
+[![Fiverr Services](https://img.shields.io/badge/Fiverr-Order_Custom_Gig-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/oyelakintosin)
 [![Buy on Selar](https://img.shields.io/badge/Instant_Download-Selar_(₦5,500)-00C853?style=for-the-badge&logo=shopify)](https://selar.com/55x56lq8cp)
-[![USD Checkout](https://img.shields.io/badge/USD_Checkout-Whop_($6)-6366F1?style=for-the-badge)](https://whop.com/checkout/plan_jjdMLyHPplytl)
+[![WhatsApp Support](https://img.shields.io/badge/WhatsApp-Direct_Inquiry-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348022791227)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 > **Field-tested frameworks to land $500–$2,500/month foreign clients on Upwork, Contra, and direct cold outreach from Nigeria and emerging markets.**
 
